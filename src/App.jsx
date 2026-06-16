@@ -16,7 +16,7 @@ function App() {
           style={{
             padding: '10px 24px',
             fontSize: '16px',
-            backgroundColor: '#0078d4',
+            backgroundColor: '#107c10',
             color: 'white',
             border: 'none',
             borderRadius: '6px',
