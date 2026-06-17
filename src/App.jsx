@@ -16,7 +16,7 @@ function App() {
           style={{
             padding: '10px 24px',
             fontSize: '16px',
-            backgroundColor: '#107c10',
+            backgroundColor: '#a7eaff',
             color: 'white',
             border: 'none',
             borderRadius: '6px',
@@ -31,7 +31,7 @@ function App() {
           style={{
             padding: '10px 24px',
             fontSize: '16px',
-            backgroundColor: '#d40000',
+            backgroundColor: '#fd80f3',
             color: 'white',
             border: 'none',
             borderRadius: '6px',
